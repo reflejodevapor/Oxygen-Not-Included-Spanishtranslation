@@ -6,7 +6,7 @@ Traduccion no oficial del juego Oxygen not included!
 
   1.- Primero descargar el strings.po mas reciente del GIT.
   
-  2.- Abrir el archivo con Poedit!
+  2.- Abrir el archivo con Poedit(https://poedit.net/download)
   
   3.- Guardar el archivo(OJO:Siempre tiene que ser "strings.po" o si no el programa no lo va a detectar!)
   
