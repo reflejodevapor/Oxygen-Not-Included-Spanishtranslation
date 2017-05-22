@@ -15,3 +15,5 @@ Traduccion no oficial del juego Oxygen not included!
   5.- Subir "strings.po" 
   
   6.- Añadir el nombre del commit y una descripción, esto puede ser una pequeña descripción de lo que modificaste.
+  
+  7.- MUY IMPORTANTE! Seleccionar "Create New Pull Request" antes de subir el archivo!
